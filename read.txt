@@ -1,0 +1,5 @@
+read.txt
+
+Hello my name is Anisa Thomas.
+I am studying engineering at the university of Waterloo.
+I like to go to the gym or watch movies.
